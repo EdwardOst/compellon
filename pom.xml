@@ -6,4 +6,7 @@
   <packaging>pom</packaging>
   <name>Talend Compellon</name>
   <description>Talend Compellon sample projects</description>
+  <modules>
+  	<module>CompellonHelper</module>
+  </modules>
 </project>
